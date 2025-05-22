@@ -30,7 +30,7 @@ The dataset provided by Kaggle contains three CSV files:
 
 
 
-## 🛠 Data Preprocessing
+##  Data Preprocessing
 
 ### Training Data:
 
@@ -76,9 +76,8 @@ Steps involved in model building:
 
 * **Python**
 * **Pandas**
-* **NumPy**
 * **Scikit-learn**
-* **Matplotlib / Seaborn** (optional for EDA)
+* **Matplotlib / Seaborn**
 * **Jupyter Notebook**
 
 
@@ -92,3 +91,9 @@ This project demonstrates how machine learning can be applied to historical data
 * Model training and evaluation
 * Real-world application through Kaggle
 
+
+##  Author
+
+**Maira Nawaz**
+
+[LinkedIn](https://www.linkedin.com/in/mairanawaz/) | [Kaggle](https://www.kaggle.com/mairanawaz) | [Github](https://github.com/Maira-Nawaz)
